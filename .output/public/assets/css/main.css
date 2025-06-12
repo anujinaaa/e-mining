@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Color gray */
+    --gray-50: #f9fafb;
+    --gray-100: #f2f4f7;
+    --gray-200: #e4e7ec;
+    --gray-300: #d0d5dd;
+    --gray-400: #98a2b3;
+    --gray-500: #667085;
+    --gray-600: #475467;
+    --gray-700: #344054;
+    --gray-800: #1d2939;
+    --gray-900: #101828;
+
+    /* Color Palette */
+    --green-900: #006d77;
+    --green-500: #83c5be;
+    --green-100: #afeae4;
+    --green-1000: #004b52;
+    --orange-100: #faede3;
+    --orange-500: #ffddd2;
+    --orange-900: #e29578;
+
+    /* Color system */
+    --primary: #508fda;
+    --secondary: #8d99ae;
+    --success: #06d6a0;
+    --danger: #ef476f;
+    --warning: #ffd166;
+    --info: #38a0c2;
+
+    /* Color background */
+    --bg-1: #eae4e9;
+    --bg-2: #fff3ea;
+    --bg-3: #fde2e4;
+    --bg-4: #fad2e1;
+    --bg-5: #dbece5;
+    --bg-6: #bee1e6;
+    --bg-7: #f0efeb;
+    --bg-8: #dfe7fd;
+    --bg-9: #d1ecfd;
+    --bg-10: #ddd3fa;
+
+    /* Animation */
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+  }
+
+  html {
+    font-family: Noto Sans, system-ui, sans-serif;
+  }
+
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+  }
+
+  .filter-white {
+    filter: brightness(0) invert(1);
+  }
+
+  .filter-black {
+    filter: brightness(0%);
+  }
+  .filter-green {
+    filter: invert(32%) sepia(37%) saturate(2042%) hue-rotate(149deg)
+      brightness(88%) contrast(101%);
+  }
+  .filter-gray-500 {
+    filter: invert(47%) sepia(8%) saturate(951%) hue-rotate(183deg)
+      brightness(91%) contrast(97%);
+  }
+
+  .img-shadow {
+    box-shadow: 0px 47px 65px rgb(21 28 38 / 10%);
+  }
+  .menu-shadow {
+    box-shadow: 4px 4px 40px rgb(16 24 40 / 10%);
+  }
+  .input-shadow {
+    box-shadow: 14px 14px 36px 0px #99999938;
+  }
+  .product-shadow:hover {
+    box-shadow: 0px 45px 80px 0px #0000000a;
+  }
+  .card-shadow {
+    box-shadow: 0px 45px 80px 0px #0000000a;
+  }
+  .shadow-3 {
+    box-shadow: 0px 47px 65px 0px #151c261a;
+  }
+  .shadow-4 {
+    box-shadow: 0px 20px 60px -6px #0000000a;
+  }
+  .shadow-sm {
+    box-shadow: 0px 1px 2px 0px #0000000d;
+  }
+  .h-fit {
+    height: fit-content;
+  }
+  .nav-shadow {
+    box-shadow: 0 0 15px 0 rgb(0 0 0 / 9%);
+  }
+  .header-shadow {
+    box-shadow: 0 8px 20px 0 rgb(0 0 0 / 5%);
+  }
+}
