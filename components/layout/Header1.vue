@@ -4,6 +4,7 @@
             <NuxtLink class="flex" href="/home"><img class="logo z-50 w-[90px] md:w-[101px] lg:w-[122px] xl:w-[138px]" src="/assets/images/logo.svg" alt="logo image" /></NuxtLink>
             <nav class="z-50 absolute hidden top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 lg:block">
                 <LayoutMenu />
+
             </nav>
             <div class="hidden xl:block">
                 <button type="button">
