@@ -1,8 +1,8 @@
 <template>
     <ul class="navbar flex flex-col justify-center font-chivo gap-[14px] lg:flex-row">
-      <NuxtLink class="hover:text-green-900 text-base font-inter menu-link lg:text-heading-6 mr-[7px]" to="/home-8">Нүүр</NuxtLink>
+      <NuxtLink class="hover:text-green-900 text-base font-inter menu-link lg:text-heading-6 mr-[7px]" to="/home">Нүүр</NuxtLink>
 
-      <NuxtLink class="hover:text-green-900 text-base font-inter menu-link lg:text-heading-6 mr-[7px]" to="/about-1">Бидний тухай</NuxtLink>
+      <NuxtLink class="hover:text-green-900 text-base font-inter menu-link lg:text-heading-6 mr-[7px]" to="/about">Бидний тухай</NuxtLink>
       <li class="flex items-center group">
         <NuxtLink class="hover:text-green-900 text-base font-inter menu-link lg:text-heading-6 mr-[7px]" to="#">E-DIS</NuxtLink><i><img class="icon-caret group-hover:filter-green" src="/assets/images/icons/icon-caret.svg" alt="caret" /></i>
         <ul class="menu-child opacity-0 bg-white top-full z-50 py-2 grid menu-shadow -translate-x-6 translate-y-8 transition-all duration-200 pointer-events-none group-hover:pointer-events-auto lg:absolute rounded-[4px] group-hover:grid group-hover:opacity-100 before:content-[''] before:block before:absolute before:w-full before:h-12 before:top-[-35px] before:left-0 grid-cols-1 w-[185px]">
