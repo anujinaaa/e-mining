@@ -1,21 +1,22 @@
 <template>
-    <div>
-        <SectionsHome1Section1 />
-        <SectionsHome1Section2 />
-        <SectionsHome1Section3 />
-        <SectionsHome1Section4 />
-        <SectionsHome1Section5 />
-        <SectionsHome1Section6 />
-        <SectionsHome1Section7 />
-        <SectionsHome1Section8 />
-        <SectionsHome1Section9 />
-        <SectionsHome1Section10 />
-    </div>
+  <div>
+    <SectionsHome8Section1 />
+    <SectionsHome8Section2 />
+    <SectionsHome8Section3 />
+    <SectionsHome8Section4 />
+    <SectionsHome8Section5 />
+    <SectionsHome8Section6 />
+    <SectionsHome8Section7 />
+  </div>
 </template>
 <script setup>
+definePageMeta({
+  layout: 'layout2'
+})
+
 useHead({
-    bodyAttrs: {
-        class: "overflow-x-hidden w-screen relative home-page"
-    }
-});
+  bodyAttrs: {
+    class: "overflow-x-hidden w-screen relative home-page-8"
+  },
+})
 </script>
