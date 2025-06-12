@@ -67,8 +67,7 @@
             <div class="w-full bg-gray-200 h-[1px] mb-[46px]"></div>
             <div class="text-gray-400 lg:flex lg:items-center lg:justify-between">
                 <div class="md:flex md:items-center md:gap-6">
-                    <p class="text-lead font-bold">©Agon Official 2024</p>
-                    <div class="flex items-center justify-between md:gap-6"><a class="text-text" href="#">Privacy policy</a><a class="text-text" href="#">Cookies</a><a class="text-text" href="#">Terms of service</a></div>
+                    <p class="text-lead font-bold">E-mining 2025</p>
                 </div>
                 <div class="flex items-center justify-center gap-5 mt-5 lg:mt-0">
                     <a class="w-8 h-8 transition-all duration-300 hover:opacity-70 hover:-translate-y-1" href="#"><img class="h-full w-full object-cover" src="/assets/images/icons/icon-facebook-green.svg" alt="facebook icon" /></a><a class="w-8 h-8 transition-all duration-300 hover:opacity-70 hover:-translate-y-1" href="#"><img class="h-full w-full object-cover" src="/assets/images/icons/icon-instagram-green.svg" alt="instagram icon" /></a><a class="w-8 h-8 transition-all duration-300 hover:opacity-70 hover:-translate-y-1" href="#"><img class="h-full w-full object-cover" src="/assets/images/icons/icon-twitter-green.svg" alt="twitter icon" /></a
