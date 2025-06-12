@@ -63,7 +63,7 @@
                 <p class="text-capitalized uppercase text-gray-500 tracking-[2px] mb-[13px]">newsletter</p>
                 <h4 class="font-bold font-chivo text-[28px] leading-[32px] md:text-heading-2 mb-[20px]">Subscribe our newsletter</h4>
                 <p class="text-text text-gray-500">By clicking the button, you are agreeing with our</p>
-                <NuxtLink class="text-green-900" to="/index">Term & Conditions</NuxtLink>
+                <NuxtLink class="text-green-900" to="#">Term & Conditions</NuxtLink>
                 <form class="mt-[30px]" action="/">
                     <div class="bg-white flex items-center justify-between p-3 rounded-[55px]">
                         <input class="ml-[25px]" type="text" placeholder="Enter your mail ..." />

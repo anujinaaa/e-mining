@@ -29,7 +29,7 @@
                         <input class="opacity-0 cursor-pointer relative z-10 peer" id="term" type="checkbox" name="term" /><img class="absolute hidden top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 peer-checked:block" src="/assets/images/icons/icon-check-gray.svg" alt="checked icon" />
                         <div class="absolute bg-transparent pointer-events-none z-0 border-[2px] rounded-[4px] w-[18px] h-[18px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 peer-checked:border-transparent border-[#3B4256]"></div>
                     </div>
-                    <span class="text-sm font-bold text-gray-500">Agree to <NuxtLink class="text-green-900 hover:opacity-70" to="/index">terms & conditions</NuxtLink></span>
+                    <span class="text-sm font-bold text-gray-500">Agree to <NuxtLink class="text-green-900 hover:opacity-70" to="#">terms & conditions</NuxtLink></span>
                 </div>
                 <button class="mb-6 w-full text-white bg-green-900 transition-opacity duration-200 text-heading-6 font-chivo font-bold shadow-sm py-[13px] hover:opacity-75" type="submit">Continue</button>
                 <div class="flex gap-2">

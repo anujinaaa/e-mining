@@ -279,7 +279,7 @@
                 <div class="grid-cols-1 !grid mt-[5px] gap-[30px] lg:grid-cols-2 xl:grid-cols-3">
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -288,7 +288,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -311,7 +311,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -320,7 +320,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -343,7 +343,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-3.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-3.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -352,7 +352,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -375,7 +375,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-4.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-4.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -384,7 +384,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -407,7 +407,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-3.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-3.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -416,7 +416,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -439,7 +439,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -448,7 +448,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -471,7 +471,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -480,7 +480,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -503,7 +503,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-4.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-4.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -512,7 +512,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -535,7 +535,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -544,7 +544,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -567,7 +567,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-3.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-3.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -576,7 +576,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -599,7 +599,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -608,7 +608,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -631,7 +631,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -640,7 +640,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -663,7 +663,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -672,7 +672,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -695,7 +695,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -704,7 +704,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
@@ -727,7 +727,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single - product"> <img src="/assets/images/product-md-4.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-4.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -736,7 +736,7 @@
                                 </NuxtLink>
                             </div>
                         </div>
-                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single - product">
+                        <NuxtLink class="flex flex-col justify-between flex-1" to="/single-product">
                             <div>
                                 <p class="text-xs text-gray-500 font-bold mb-[7px]">Sony</p>
                                 <p class="text-lead font-bold mb-[11px]">All Natural Italian-Style Chicken Meatballs</p>
