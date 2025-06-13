@@ -41,7 +41,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
@@ -92,7 +92,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-2.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.3.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
@@ -143,7 +143,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-3.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.5.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
@@ -194,7 +194,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-4.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.6.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
@@ -245,7 +245,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-3.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.2.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
@@ -296,7 +296,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.4.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
@@ -347,7 +347,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-2.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.1.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
@@ -398,7 +398,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-4.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.2.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
@@ -449,7 +449,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.3.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
@@ -500,7 +500,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-3.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.4.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
@@ -551,7 +551,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.5.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
@@ -602,7 +602,7 @@
                 <div
                     class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                     <div class="relative">
-                        <NuxtLink to="/single-product"> <img src="/assets/images/product-md-2.png"
+                        <NuxtLink to="/single-product"> <img src="/assets/images/single-product-1.6.png"
                                 alt="featured image product"></NuxtLink>
                         <div
                             class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">

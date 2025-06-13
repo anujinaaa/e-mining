@@ -11,32 +11,32 @@
             class="product-main mb-[30px]"
         >
             <swiper-slide class="border border-gray-200 rounded-2xl relative p-[30px] mr-[1px]">
-                <div class="relative image-zoom bg-[length:840px] bg-[url(./assets/images/product-1.png)]"><img class="absolute top-0 right-0" src="/assets/images/icons/icon-zoom-in.svg" alt="zoom in icon" /><img class="h-full w-full object-cover transition-all duration-300 cursor-crosshair hover:opacity-0" src="/assets/images/product-1.png" alt="image of a product" /></div>
+                <div class="relative image-zoom bg-[length:840px] bg-[url(./assets/images/single-product-1.png)]"><img class="absolute top-0 right-0" src="/assets/images/icons/icon-zoom-in.svg" alt="zoom in icon" /><img class="h-full w-full object-cover transition-all duration-300 cursor-crosshair hover:opacity-0" src="/assets/images/single-product-1.png" alt="image of a product" /></div>
             </swiper-slide>
             <swiper-slide class="border border-gray-200 rounded-2xl relative p-[30px] mr-[1px]">
-                <div class="relative image-zoom bg-[length:840px] bg-[url(./assets/images/product-2.png)]"><img class="absolute top-0 right-0" src="/assets/images/icons/icon-zoom-in.svg" alt="zoom in icon" /><img class="h-full w-full object-cover transition-all duration-300 cursor-crosshair hover:opacity-0" src="/assets/images/product-2.png" alt="image of a product" /></div>
+                <div class="relative image-zoom bg-[length:840px] bg-[url(./assets/images/single-product-1.png)]"><img class="absolute top-0 right-0" src="/assets/images/icons/icon-zoom-in.svg" alt="zoom in icon" /><img class="h-full w-full object-cover transition-all duration-300 cursor-crosshair hover:opacity-0" src="/assets/images/single-product-1.png" alt="image of a product" /></div>
             </swiper-slide>
             <swiper-slide class="border border-gray-200 rounded-2xl relative p-[30px] mr-[1px]">
-                <div class="relative image-zoom bg-[length:840px] bg-[url(./assets/images/product-3.png)]"><img class="absolute top-0 right-0" src="/assets/images/icons/icon-zoom-in.svg" alt="zoom in icon" /><img class="h-full w-full object-cover transition-all duration-300 cursor-crosshair hover:opacity-0" src="/assets/images/product-3.png" alt="image of a product" /></div>
+                <div class="relative image-zoom bg-[length:840px] bg-[url(./assets/images/single-product-1.png)]"><img class="absolute top-0 right-0" src="/assets/images/icons/icon-zoom-in.svg" alt="zoom in icon" /><img class="h-full w-full object-cover transition-all duration-300 cursor-crosshair hover:opacity-0" src="/assets/images/single-product-1.png" alt="image of a product" /></div>
             </swiper-slide>
             <swiper-slide class="border border-gray-200 rounded-2xl relative p-[30px] mr-[1px]">
-                <div class="relative image-zoom bg-[length:840px] bg-[url(./assets/images/product-4.png)]"><img class="absolute top-0 right-0" src="/assets/images/icons/icon-zoom-in.svg" alt="zoom in icon" /><img class="h-full w-full object-cover transition-all duration-300 cursor-crosshair hover:opacity-0" src="/assets/images/product-4.png" alt="image of a product" /></div>
+                <div class="relative image-zoom bg-[length:840px] bg-[url(./assets/images/single-product-1.png)]"><img class="absolute top-0 right-0" src="/assets/images/icons/icon-zoom-in.svg" alt="zoom in icon" /><img class="h-full w-full object-cover transition-all duration-300 cursor-crosshair hover:opacity-0" src="/assets/images/single-product-1.png" alt="image of a product" /></div>
             </swiper-slide>
         </swiper>
     </div>
     <div class="z-1 order-first overflow-y-scroll scrollbar-hide lg:w-[35%] xl:w-[25%] max-h-[430px]">
         <swiper @swiper="setThumbsSwiper" :spaceBetween="10" :slidesPerView="3" :modules="modules" :direction="'vertical'">
             <swiper-slide class="product-img-thumb border border-gray-200 rounded-2xl p-[10px] mx-[10px]">
-                <img class="w-full object-cover min-w-[91px]" src="/assets/images/product-1.png" alt="image of a product" />
+                <img class="w-full object-cover min-w-[91px]" src="/assets/images/single-product-1.png" alt="image of a product" />
             </swiper-slide>
             <swiper-slide class="product-img-thumb border border-gray-200 rounded-2xl p-[10px] mx-[10px]">
-                <img class="w-full object-cover min-w-[91px]" src="/assets/images/product-2.png" alt="image of a product" />
+                <img class="w-full object-cover min-w-[91px]" src="/assets/images/single-product-1.png" alt="image of a product" />
             </swiper-slide>
             <swiper-slide class="product-img-thumb border border-gray-200 rounded-2xl p-[10px] mx-[10px]">
-                <img class="w-full object-cover min-w-[91px]" src="/assets/images/product-3.png" alt="image of a product" />
+                <img class="w-full object-cover min-w-[91px]" src="/assets/images/single-product-1.png" alt="image of a product" />
             </swiper-slide>
             <swiper-slide class="product-img-thumb border border-gray-200 rounded-2xl p-[10px] mx-[10px]">
-                <img class="w-full object-cover min-w-[91px]" src="/assets/images/product-4.png" alt="image of a product" />
+                <img class="w-full object-cover min-w-[91px]" src="/assets/images/single-product-1.png" alt="image of a product" />
             </swiper-slide>
         </swiper>
     </div>

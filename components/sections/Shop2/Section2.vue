@@ -279,7 +279,7 @@
                 <div class="grid-cols-1 !grid mt-[5px] gap-[30px] lg:grid-cols-2 xl:grid-cols-3">
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -311,7 +311,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.1.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -343,7 +343,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-3.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.2.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -375,7 +375,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-4.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.3.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -407,7 +407,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-3.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.4.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -439,7 +439,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.5.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -471,7 +471,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.6.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -503,7 +503,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-4.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.1.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -535,7 +535,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.2.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -567,7 +567,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-3.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.3.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -599,7 +599,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.4.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -631,7 +631,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.5.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -663,7 +663,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-1.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.6.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -695,7 +695,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-2.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.1.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>
@@ -727,7 +727,7 @@
                     </div>
                     <div class="rounded-2xl p-7 border border-gray-200 flex flex-col transition-all duration-200 group hover:border-green-900 hover:-translate-y-1">
                         <div class="relative">
-                            <NuxtLink to="/single-product"> <img src="/assets/images/product-md-4.png" alt="featured image product" /></NuxtLink>
+                            <NuxtLink to="/single-product"> <img src="/assets/images/single-product-2.2.png" alt="featured image product" /></NuxtLink>
                             <div class="flex items-center border border-gray-200 overflow-hidden w-fit bg-white max-h-[48px] rounded-[7px] absolute opacity-0 invisible transition-all duration-200 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 group-hover:opacity-100 group-hover:visible">
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-100 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-heart.svg" alt="heart icon" /></NuxtLink>
                                 <NuxtLink class="grid place-items-center border-r border-gray-200 hover:bg-gray-200 w-[48px] h-[48px]" to="#"> <img src="/assets/images/icons/icon-shuffle.svg" alt="shuffle icon" /> </NuxtLink>

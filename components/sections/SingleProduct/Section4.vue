@@ -1,8 +1,7 @@
 <template>
     <div class="px-[12px] md:px-[36px] xl:px-0 mt-[70px] lg:mt-[100px]">
         <div class="mb-[35px] md:mb-[64px]">
-            <h2 class="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">You may also like</h2>
-            <p class="text-quote md:text-lead-lg text-gray-600">Take it to your cart</p>
+            <h2 class="text-gray-900 font-bold font-chivo mb-5 text-[35px] leading-[44px] md:text-[46px] md:leading-[52px] lg:text-heading-1 md:mb-[30px] max-w-[725px]">Онцлох бараа бүтээгдэхүүн</h2>
         </div>
         <div class="grid grid-cols-1 items-center gap-[30px] lg:grid-cols-2 xl:grid-cols-3">
             <div class="rounded-2xl py-[18px] px-[13px] border border-gray-200 gap-2 w-full product-shadow transition-all duration-300 hover:translate-y-[-3px]">
